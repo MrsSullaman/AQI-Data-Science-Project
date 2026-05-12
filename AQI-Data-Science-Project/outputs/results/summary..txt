@@ -1,0 +1,7 @@
+
+
+Different machine learning techniques were applied to analyze and classify the air quality dataset. The KNN (K-Nearest Neighbors) model was used as a supervised learning method to predict AQI categories. Different values of k were tested, and the best performance was achieved at k = 7 with an accuracy of 0.25. Naive Bayes classification was also applied for AQI category prediction and produced a higher accuracy of 0.3866 compared to KNN.
+
+For unsupervised learning, K-Means clustering was used to group similar air quality records into clusters. The dataset was successfully divided into 3 clusters representing different pollution levels. PCA (Principal Component Analysis) was applied for dimensionality reduction and data visualization. PCA reduced the dataset into two principal components and explained approximately 21.4% of the total variance in the dataset.
+
+Overall, Naive Bayes performed better than KNN in AQI category prediction, while K-Means and PCA helped in understanding hidden patterns and visualizing pollution trends within the dataset.
