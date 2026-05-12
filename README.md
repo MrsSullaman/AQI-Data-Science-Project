@@ -71,9 +71,8 @@ K-Means: Identified 3 meaningful pollution clusters (low/medium/high).
 PCA: Explained only 21.4% variance — expected for synthetic, uncorrelated data.
 
 Screenshots of Important Charts
-
-https://github.com/MrsSullaman-creator/AQI-Data-Science-Project/tree/main/AQI-Data-Science-Project/outputs/charts
+https://github.com/MrsSullaman/AQI-Data-Science-Project/tree/main/AQI-Data-Science-Project/outputs/charts
 
 Report File Location
 
-https://github.com/MrsSullaman-creator/AQI-Data-Science-Project/blob/main/AQI-Data-Science-Project/report/AQI_Data_Science_Report.docx.pdf
+https://github.com/MrsSullaman/AQI-Data-Science-Project/blob/main/AQI-Data-Science-Project/report/AQI_Data_Science_Report.docx
