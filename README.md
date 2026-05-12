@@ -74,4 +74,4 @@ Screenshots of Important Charts
 https://github.com/MrsSullaman/AQI-Data-Science-Project/tree/main/AQI-Data-Science-Project/outputs/charts
 
 Report File Location
-https://github.com/MrsSullaman/AQI-Data-Science-Project/blob/main/AQI-Data-Science-Project/report/~%24I_Data_Science_Report.docx
+https://github.com/MrsSullaman/AQI-Data-Science-Project/blob/main/AQI-Data-Science-Project/report/AQI_Data_Science_Report.pdf
